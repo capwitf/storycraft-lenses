@@ -1,10 +1,10 @@
-# 创作透镜 | Writing Lenses
+# 叙事双镜 | Storycraft Lenses
 
 [简体中文](#简体中文) | [English](#english)
 
-面向 AI 辅助小说创作的两个 Codex skills：一个负责商业连载节奏，一个提供写作表达分析透镜。
+用两种互补视角辅助 AI 小说创作：把握商业连载节奏，也打磨原创表达。
 
-Two Codex skills for AI-assisted fiction writing: one focuses on commercial serial pacing, and the other provides an analytical writing lens.
+Two complementary lenses for AI-assisted fiction: commercial serial pacing and original prose craft.
 
 ## 简体中文
 
