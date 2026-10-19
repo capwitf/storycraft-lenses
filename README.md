@@ -6,6 +6,13 @@
 
 Two complementary lenses for AI-assisted fiction: commercial serial pacing and original prose craft.
 
+<p>
+  <a href="https://github.com/capwitf/storycraft-lenses/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/capwitf/storycraft-lenses?style=flat-square"></a>
+  <a href="https://github.com/capwitf/storycraft-lenses/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/capwitf/storycraft-lenses?style=flat-square"></a>
+  <a href="https://github.com/capwitf/storycraft-lenses/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/capwitf/storycraft-lenses?style=flat-square"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/capwitf/storycraft-lenses?style=flat-square"></a>
+</p>
+
 ## 简体中文
 
 ### 包含内容
