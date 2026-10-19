@@ -1,0 +1,13 @@
+# Other projects stored beside this repository.
+/SKILL/
+/write-readme/
+/SKILl816.zip
+
+# Local and generated files.
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*.log
+**/LOOP_LOG.md
+**/STATE.md
